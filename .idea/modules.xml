@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VKCExecutives.iml" filepath="$PROJECT_DIR$/VKCExecutives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VKC/VKCExecutives.VKC.iml" filepath="$PROJECT_DIR$/.idea/modules/VKC/VKCExecutives.VKC.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./VKC/libs/gcm.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VKC/libs/gcm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

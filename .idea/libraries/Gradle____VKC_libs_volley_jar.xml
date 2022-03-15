@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./VKC/libs/volley.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VKC/libs/volley.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
